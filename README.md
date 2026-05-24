@@ -30,8 +30,9 @@ Werote helps developers quickly export a project's directory tree and file conte
 
   ### werote_export.txt:
    ```
-      test
+      test                  <- Tree
          └── tester.py
 
-      # tester.py
+      # tester.py               <- File contents
+      print("Hellow World!")
    ```
