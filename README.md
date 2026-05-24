@@ -22,4 +22,15 @@ Werote helps developers quickly export a project's directory tree and file conte
 1. Clone the repository:
    ```bash
    git clone https://github.com/zect-project/Werote.git
-   cd Werote
+   ```
+2. Use
+   ```bash
+   python C:\holl\Starts\Werote.py C:\holl\python\test
+   ```
+   ```
+   werote_export.txt:
+      test
+      └── tester.py
+
+      # tester.py
+   ```
