@@ -19,16 +19,16 @@ Werote helps developers quickly export a project's directory tree and file conte
 
 ## 📥 Installation
 
-# 1. Clone the repository:
+### 1. Clone the repository:
    ```bash
    git clone https://github.com/zect-project/Werote.git
    ```
-# 2. Use
+### 2. Use
    ```bash
    python C:\holl\Starts\Werote.py C:\holl\python\test
    ```
 
-  # werote_export.txt:
+  ### werote_export.txt:
    ```
       test
          └── tester.py
